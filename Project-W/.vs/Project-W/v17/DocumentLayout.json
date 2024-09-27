@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|c:\\users\\\u00F6mer sefa\\source\\repos\\project-w\\project-w\\arabalistesi1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\arabalistesi1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\project-w\\g\u00F6r\u00FCnt\u00FCle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\g\u00F6r\u00FCnt\u00FCle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|c:\\users\\\u00F6mer sefa\\source\\repos\\project-w\\project-w\\arabalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\arabalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\project-w\\ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\project-w\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|c:\\users\\\u00F6mer sefa\\source\\repos\\project-w\\project-w\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\project-w\\arabalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\arabalar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|c:\\users\\\u00F6mer sefa\\source\\repos\\project-w\\project-w\\ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|c:\\users\\\u00F6mer sefa\\source\\repos\\project-w\\project-w\\ayarlar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\ayarlar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\project-w\\hakk\u0131m\u0131zda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\hakk\u0131m\u0131zda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|c:\\users\\\u00F6mer sefa\\source\\repos\\project-w\\project-w\\g\u00F6r\u00FCnt\u00FCle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\g\u00F6r\u00FCnt\u00FCle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\project-w\\kay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\kay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\project-w\\\u0130letisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\\u0130letisim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|c:\\users\\\u00F6mer sefa\\source\\repos\\project-w\\project-w\\kay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\kay\u0131t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|c:\\users\\\u00F6mer sefa\\source\\repos\\project-w\\project-w\\anasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\anasayfa.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|c:\\users\\\u00F6mer sefa\\source\\repos\\project-w\\project-w\\arabalistesi1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4F1353A-CDEB-4D77-917D-84FC77E46480}|Project-W\\Project-W.csproj|solutionrelative:project-w\\arabalistesi1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ayarlar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Ayarlar.Designer.cs",
+              "RelativeDocumentMoniker": "Project-W\\Ayarlar.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Ayarlar.Designer.cs",
+              "RelativeToolTip": "Project-W\\Ayarlar.Designer.cs",
+              "ViewState": "AgIAAFMBAAAAAAAAAAAmwFwBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T18:45:19.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hakk\u0131m\u0131zda.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Hakk\u0131m\u0131zda.cs",
+              "RelativeDocumentMoniker": "Project-W\\Hakk\u0131m\u0131zda.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Hakk\u0131m\u0131zda.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Project-W\\Hakk\u0131m\u0131zda.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T17:30:12.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ayarlar.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Ayarlar.cs",
+              "RelativeDocumentMoniker": "Project-W\\Ayarlar.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Ayarlar.cs",
+              "RelativeToolTip": "Project-W\\Ayarlar.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:57:41.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ayarlar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Ayarlar.cs",
+              "RelativeDocumentMoniker": "Project-W\\Ayarlar.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Ayarlar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Project-W\\Ayarlar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:47:01.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "\u0130letisim.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\\u0130letisim.cs",
+              "RelativeDocumentMoniker": "Project-W\\\u0130letisim.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\\u0130letisim.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Project-W\\\u0130letisim.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:37:32.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Kay\u0131t.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Kay\u0131t.cs",
+              "RelativeDocumentMoniker": "Project-W\\Kay\u0131t.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Kay\u0131t.cs",
+              "RelativeToolTip": "Project-W\\Kay\u0131t.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAvwIQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:56:50.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Kay\u0131t.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Kay\u0131t.cs",
+              "RelativeDocumentMoniker": "Project-W\\Kay\u0131t.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Kay\u0131t.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Project-W\\Kay\u0131t.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T16:56:48.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArabaListesi1.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\ArabaListesi1.cs",
+              "RelativeDocumentMoniker": "Project-W\\ArabaListesi1.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\ArabaListesi1.cs",
+              "RelativeToolTip": "Project-W\\ArabaListesi1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAzwCAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:36:48.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "Project-W\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Anasayfa.cs",
+              "RelativeToolTip": "Project-W\\Anasayfa.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T11:23:28.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "G\u00F6r\u00FCnt\u00FCle.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\G\u00F6r\u00FCnt\u00FCle.cs",
+              "RelativeDocumentMoniker": "Project-W\\G\u00F6r\u00FCnt\u00FCle.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\G\u00F6r\u00FCnt\u00FCle.cs",
+              "RelativeToolTip": "Project-W\\G\u00F6r\u00FCnt\u00FCle.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwDwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T07:20:46.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arabalar.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Arabalar.cs",
+              "RelativeDocumentMoniker": "Project-W\\Arabalar.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Arabalar.cs",
+              "RelativeToolTip": "Project-W\\Arabalar.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwB8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:03:17.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Anasayfa.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Anasayfa.Designer.cs",
+              "RelativeDocumentMoniker": "Project-W\\Anasayfa.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Anasayfa.Designer.cs",
+              "RelativeToolTip": "Project-W\\Anasayfa.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:22:41.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "G\u00F6r\u00FCnt\u00FCle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\G\u00F6r\u00FCnt\u00FCle.cs",
+              "RelativeDocumentMoniker": "Project-W\\G\u00F6r\u00FCnt\u00FCle.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\G\u00F6r\u00FCnt\u00FCle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Project-W\\G\u00F6r\u00FCnt\u00FCle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T06:46:16.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArabaListesi1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\ArabaListesi1.cs",
+              "RelativeDocumentMoniker": "Project-W\\ArabaListesi1.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\ArabaListesi1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Project-W\\ArabaListesi1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T18:00:09.541Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Arabalar.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Arabalar.cs",
+              "RelativeDocumentMoniker": "Project-W\\Arabalar.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Arabalar.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Project-W\\Arabalar.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:56:57.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "Project-W\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\\u00D6mer Sefa\\source\\repos\\Project-W\\Project-W\\Anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Project-W\\Anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T08:21:49.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
